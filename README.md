@@ -8,4 +8,4 @@ I'm Petter Hancock, a passionate software engineer with a love for building inno
 - Databases: PostgreSQL, MSSQL, NoSQL
 - Tools & DevOps: Git, Github Actions, Docker, Azure
 
-<img src="https://myreadme.vercel.app/api/embed/pettor?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api?username=pettor&show_icons=true&locale=en" alt="reimaginedreadme" />
